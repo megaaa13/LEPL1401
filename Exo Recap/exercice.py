@@ -10,7 +10,7 @@ de créer un programme qui permet recenser les élèves par groupes, et par loca
 
 Vous devez créer les classes suivantes :
     - Eleve : Un élève est une personne (de la classe Personne) (! héritage !) qui a des études.
-    - Local : Une local a un nom et un ensemble de groupes qui y passe ses TPs.
+    - Local : Un local a un nom et un ensemble de groupes qui y passe leurs TPs.
     - Groupe : Un groupe a un nom, un ensemble d'élèves qui le représente et un projet.
     - Projet : Un projet a un nom et parcoure une certaine distance (aléatoire).
 
